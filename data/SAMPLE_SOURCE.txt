@@ -1,0 +1,7 @@
+Official source used for the included NSP sample snapshot:
+https://scholarships.gov.in/All-Scholarships
+Academic Year: 2026-27
+Snapshot date: 2026-11-06
+The page lists the scheme titles, provider headings and application windows.
+Fields not stated in the listing are explicitly marked Not specified.
+The live crawler should be run to refresh the sample before use.
